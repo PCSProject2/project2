@@ -17,6 +17,10 @@ h2{
   padding: 10px; 
 }
 
+h3{
+ padding 8px;
+}
+
 img {
   max-width: 90%;
   height: auto;
