@@ -1,10 +1,10 @@
 html {
- line-height: 1.2em;
+
  font-family: tahoma;
  font-size: 15px;
  text-align: center;
  align-content: center;
- background-image: "media/faintcolor.gif" max-width 100%;
+ background-color: #F8ECE0;
 }
 
 h1 {
@@ -18,10 +18,27 @@ h2{
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
+
 }
 
+#left {
+  float: left;
+  padding-left: 20%;
+  max-width: 60%;
+  height: 40%;
+}
+#right {
+  float: right;
+  max-width: 50%;
+  height: 20%;
+}
+
+div {
+  height: 200px;
+  width: 100%;
+}
 
 @media screen and (min-width: 800px) {
   label {
