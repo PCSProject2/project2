@@ -63,10 +63,24 @@ background-color: #f8ece0
   font-size: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
+  top: 215px;
+  left: 70px;
+  height: 300px;
+  width: 300px;
   text-align: center;
   font-family: 'McLaren', cursive;
 }
 .Vince1 img {
-
+width: 300px;
+height: 300px;
+position: absolute;
+top: 215px;
+right: 20px;
 }
+.Vince2 img {
+width: 300px;
+height: 300px;
+position: absolute;
+top: 215px;
+left: 20px;
 }
