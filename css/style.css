@@ -3,6 +3,7 @@ background-color: #f8ece0
 }
   img {
   max-width: 100%;
+  border-radius: 50%;
 }
 @media screen and (min-width: 300px) {
   header{
@@ -29,7 +30,8 @@ background-color: #f8ece0
   }
 #AboutMe {
   text-align: center;
-  font-size: 20px;
+  font-size: 13px;
+  font-family: 'McLaren', cursive;
 }
 }
 @media screen and (min-width: 768px) {
@@ -63,5 +65,8 @@ background-color: #f8ece0
   margin-bottom: 20px;
   text-align: center;
   font-family: 'McLaren', cursive;
+}
+.Vince1 img {
+
 }
 }
