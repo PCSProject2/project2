@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    color: white;
+    background-color: maroon;
+}
+.nav{
+    text-align: center;
+    color: white;
+
+}
+.nav ul li {
+    display:inline;
+}
+.nav ul{
+    padding: 0;
+}
+a:link, :visited{
+    color: white;
+}
+a:hover{
+    color: lightblue;
+}
