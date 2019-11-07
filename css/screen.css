@@ -40,38 +40,36 @@ div {
   width: 100%;
 }
 
-@media screen and (min-width: 800px) {
-  label {
-    display: inline-block;
-    color: black;
-    margin-right: 5px;
-    font-size: 1.3em;
-    background-color: transparent;
-    padding: 20px;
-  }
-
-  h1 {
-    font-size: 3.4em;
-    padding-top: 30%; 
-  }
-  
-  body {
-    padding-top: 10px;
-    height: 225px;
-    background-color: lightpink;
-  }
-
-  html {
-    background: lightblue;
-    align-self: center;
-    align-content: center;
-  }
-
-  div {
-    display: inline;
-  }
-
-  .submit-button {
-    border-radius: 25px;
-  }
+header{
+    text-align: center;
+    color: white;
+    background-color: maroon;
+    max-height: 100px;
 }
+.nav{
+    text-align: center;
+    color: white;
+
+}
+.nav ul li {
+    display:inline;
+}
+.nav ul{
+    padding: 0;
+}
+@media only screen and (min-width: 800px){
+  header{
+    text-align: center;
+    color: white;
+    background-color: maroon;
+    }
+  .nav{
+    text-align: center;
+    color: white;
+    }
+  .nav ul li {
+    display:inline;
+    }
+  .nav ul{
+    padding: 0;
+    }
