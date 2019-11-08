@@ -33,12 +33,32 @@ background-color: #f8ece0
   font-size: 20px;
   font-family: 'McLaren', cursive;
 }
+#Information {
+position: relative;
+font-size: 20px;
+display: table-cell;
+line-height: 30px;
+vertical-align: middle;
+text-align: center;
+font-family: 'McLaren', cursive;
+}
+#Belt {
+  font-size: 20px;
+  padding-top: 200px;
+  line-height: 30px;
+  vertical-align: center;
+  text-align: center;
+}
 .Vince2 img {
   width: 300px;
   height: 300px;
   position: absolute;
   top: 300px;
   left: 20px;
+}
+.Knot {
+  top: 150px;
+  width: 300px;
 }
 .Vince1 img {
   bottom: 300px;
@@ -80,7 +100,7 @@ background-color: #f8ece0
   padding-left: 30px;
 }
 #Information {
-position: relative;
+position: absolute;
 font-size: 20px;
 display: table-cell;
 line-height: 30px;
@@ -94,7 +114,7 @@ padding-left: 300px;
 }
 #Belt {
   font-size: 20px;
-  padding-top: 200px;
+  padding-top: 400px;
   line-height: 30px;
   vertical-align: center;
   text-align: center;
@@ -114,9 +134,4 @@ padding-left: 300px;
   left: 20px;
   position: absolute;
   width: 300px;
-/* width: 300px;
-height: 300px;
-position: absolute;
-top: 215px;
-left: 20px; */
 }
