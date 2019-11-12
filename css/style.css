@@ -1,3 +1,6 @@
+/* Golden section
+https://www.modularscale.com/?20&px&1.618
+*/
 html {
 background-color: #f8ece0
 }
@@ -30,55 +33,48 @@ background-color: #f8ece0
   }
 #AboutMe {
   text-align: center;
-  font-size: 20px;
-  font-family: 'Libre Baskerville', serif;
+  font-size: 1em /* 20px */;
+  font-family: 'Libre Baskerville',"Book Antiqua", "Times New Roman", serif;
 }
 #Information {
 position: relative;
-font-size: 20px;
+font-size: 1em /* 20px */;
 display: table-cell;
-line-height: 30px;
+line-height: 1.618em /* 32.36px */;
 vertical-align: middle;
 text-align: center;
-font-family: 'McLaren', cursive;
+font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
 }
 #Belt {
-  font-size: 20px;
-  padding-top: 200px;
-  line-height: 30px;
+  font-size: 1em /* 20px */;
+  padding-top: 11.089em /* 221.78px */;
+  line-height: 1.618em /* 32.36px */;
   vertical-align: center;
   text-align: center;
+  font-family: 'Barlow', "Book Antiqua", "Times New Roman", sans-serif;
 }
 .Vince2 img {
-  width: 300px;
-  height: 300px;
+  width: 17.942em /* 358.84px */;
+  height: 17.942em /* 358.84px */;
   position: absolute;
-  top: 300px;
-  left: 20px;
+  top: 17.942em /* 358.84px */;
+  left: 1em /*20px*/;
 }
 .Knot {
-  top: 150px;
-  width: 300px;
-}
-.Vince1 img {
-  bottom: 300px;
-  width: 250px;
-  top: 500px;
-}
-.OtherVince {
-  position: relative;
+  top: 6.854em /* 137.071px */;
+  width: 17.942em /* 358.84px */;
 }
 }
 @media screen and (min-width: 500px) {
   #Information {
   position: absolute;
-  font-size: 20px;
+  font-size: 1em /* 20px */;
   display: table-cell;
-  line-height: 30px;
+  line-height: 1.618em /* 32.36px */;
   vertical-align: middle;
   text-align: center;
-  font-family: 'McLaren', cursive;
-  padding-bottom: 50px;
+  font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
+  padding-bottom: 2.618em /* 52.358px */;
   }
   #Information {
   position: absolute;
@@ -86,13 +82,14 @@ font-family: 'McLaren', cursive;
   }
 
   #Belt {
-    font-size: 20px;
-    padding-top: 500px;
-    line-height: 30px;
+    font-size: 1em /* 20px */;
+    padding-top: 29.03em /*580.603px */;
+    line-height: 1.618em /* 32.36px */;
     vertical-align: center;
     text-align: center;
   }
 }
+
 @media screen and (min-width: 768px) {
   header{
       text-align: center;
@@ -117,51 +114,52 @@ font-family: 'McLaren', cursive;
       color: lightblue;
   }
 #AboutMe {
-  font-size: 20px;
-  top: 40px;
+  font-size: 1em /* 20px */;
+  top: 1.618em /* 32.36px */;
   vertical-align: middle;
   text-align: center;
-  line-height: 30px;
-  font-family: 'Libre Baskerville', serif;
-  padding-bottom: 40px;
-  padding-right: 30px;
-  padding-left: 30px;
+  line-height: 1.618em /* 32.36px */;
+  font-family: 'Libre Baskerville', "Book Antiqua", "Times New Roman", serif;
+  padding-bottom: 1.618em /* 32.36px */;
+  padding-right: 1.618em /* 32.36px */;
+  padding-left: 1.618em /* 32.36px */;
 }
 #Information {
 position: absolute;
-font-size: 20px;
+font-size: 1em /* 20px */;
 display: table-cell;
-line-height: 30px;
+line-height: 1.618em /* 32.36px */;
 vertical-align: middle;
 text-align: center;
-font-family: 'McLaren', cursive;
-padding-bottom: 75px;
-padding-right: 300px;
-padding-left: 300px;
+font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
+padding-bottom: 4.236em /* 84.716px */;
+padding-right: 17.942em /* 358.84px */;
+padding-left: 17.942em /* 358.84px */;
 }
 
 #Belt {
-  font-size: 20px;
-  padding-top: 600px;
-  line-height: 30px;
+  font-size: 1em /* 20px */;
+  padding-top: 29.03em /*580.603px */;
+  line-height: 1.618em /* 32.36px */;
   vertical-align: center;
   text-align: center;
   position: relative;
+  font-family: 'Barlow', "Book Antiqua", "Times New Roman", sans-serif;
 }
 
 .Knot {
   float: right;
-  top: 50px;
-  right: 20px;
+  top: 2.618em /* 52.358px */;
+  right: 1em /* 20px */;
   position: relative;
-  width: 300px;
+  width: 17.942em /* 358.84px */;
 }
 
 .Vince {
   float: left;
-  top: 50px;
-  left: 20px;
+  top: 2.618em /* 52.358px */;
+  left: 1em /* 20px */;
   position: relative;
-  width: 300px;
+  width: 17.942em /* 358.84px */;
 }
 }
