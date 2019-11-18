@@ -1,8 +1,65 @@
 /* Golden section
 https://www.modularscale.com/?20&px&1.618
 */
+
+h1 {
+  font-size: 40px;
+  padding: 20px;
+}
+
+h2{
+  font-size: 20px;
+  padding: 10px;
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+
+}
+
+.left {
+  float: left;
+  padding-left: 20%;
+  max-width: 60%;
+  height: 40%;
+}
+.right {
+  float: right;
+  max-width: 50%;
+  height: 20%;
+  padding-right: 20%;
+}
+
+div {
+  height: 200px;
+  width: 100%;
+}
+
+header{
+    text-align: center;
+    color: white;
+    background-color: maroon;
+    max-height: 100px;
+}
+.nav{
+    text-align: center;
+    color: white;
+
+}
+.nav ul li {
+    display:inline;
+}
+.nav ul{
+    padding: 0;
+}
+
 html {
-background-color: #f8ece0
+background-color: #f8ece0;
+font-family: tahoma;
+font-size: 15px;
+text-align: center;
+align-content: center;
 }
   img {
   max-width: 100%;
