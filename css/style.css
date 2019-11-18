@@ -49,13 +49,13 @@ header{
 }
 
 html {
-background-color: #f8ece0;
-font-family: tahoma;
-font-size: 15px;
-text-align: center;
-align-content: center;
+  background-color: #f8ece0;
+  font-family: tahoma;
+  font-size: 15px;
+  text-align: center;
+  align-content: center;
 }
-  img {
+ img {
   max-width: 100%;
   border-radius: 50%;
 }
@@ -88,13 +88,13 @@ align-content: center;
   font-family: 'Libre Baskerville',"Book Antiqua", "Times New Roman", serif;
 }
 #Information {
-position: relative;
-font-size: 1em /* 20px */;
-display: table-cell;
-line-height: 1.618em /* 32.36px */;
-vertical-align: middle;
-text-align: center;
-font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
+  position: relative;
+  font-size: 1em /* 20px */;
+  display: table-cell;
+  line-height: 1.618em /* 32.36px */;
+  vertical-align: middle;
+  text-align: center;
+  font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
 }
 #Belt {
   font-size: 1em /* 20px */;
@@ -143,9 +143,9 @@ font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
 
 @media screen and (min-width: 768px) {
   header{
-      text-align: center;
-      color: white;
-      background-color: maroon;
+    text-align: center;
+    color: white;
+    background-color: maroon;
   }
   .nav{
       text-align: center;
@@ -176,16 +176,16 @@ font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
   padding-left: 1.618em /* 32.36px */;
 }
 #Information {
-position: absolute;
-font-size: 1em /* 20px */;
-display: table-cell;
-line-height: 1.618em /* 32.36px */;
-vertical-align: middle;
-text-align: center;
-font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
-padding-bottom: 4.236em /* 84.716px */;
-padding-right: 17.942em /* 358.84px */;
-padding-left: 17.942em /* 358.84px */;
+  position: absolute;
+  font-size: 1em /* 20px */;
+  display: table-cell;
+  line-height: 1.618em /* 32.36px */;
+  vertical-align: middle;
+  text-align: center;
+  font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
+  padding-bottom: 4.236em /* 84.716px */;
+  padding-right: 17.942em /* 358.84px */;
+  padding-left: 17.942em /* 358.84px */;
 }
 
 #Belt {
