@@ -55,9 +55,9 @@ font-size: 15px;
 text-align: center;
 align-content: center;
 }
-  img {
-  max-width: 100%;
-  border-radius: 50%;
+img {
+max-width: 100%;
+height: auto;
 }
 @media screen and (min-width: 300px) {
   header{
@@ -204,6 +204,7 @@ padding-left: 17.942em /* 358.84px */;
   right: 1em /* 20px */;
   position: relative;
   width: 17.942em /* 358.84px */;
+  border-radius: 50%;
 }
 
 .Vince {
@@ -212,5 +213,6 @@ padding-left: 17.942em /* 358.84px */;
   left: 1em /* 20px */;
   position: relative;
   width: 17.942em /* 358.84px */;
+  border-radius: 50%;
 }
 }
