@@ -39,7 +39,6 @@ header {
   color: white;
   background-color: maroon;
   max-height: 100px;
-}
 .nav h1 {
   font-size: 40px; 
   background-color: maroon; 
@@ -70,7 +69,7 @@ header {
     padding: 10px;
 } 
 .NL input{
-    width: 50%;
+    width: 90%;
     padding: 10px 20px;
     margin: 0px 0;
     display: inline-block;
@@ -79,7 +78,7 @@ header {
     text-align: center;
 }
 .NL .submit-button {
-    width: 45%;
+    width: 75%;
     padding: 10px 20px;
     border-radius: 10px;
     text-align: center;
