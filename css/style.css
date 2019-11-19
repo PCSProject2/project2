@@ -36,9 +36,13 @@ header{
     background-color: maroon;
     max-height: 100px;
 }
+.nav h1 {
+  font-size: 40px;
+}
 .nav{
     text-align: center;
     color: white;
+    font-size: 40px;
 
 }
 .nav ul li {
@@ -51,7 +55,6 @@ header{
 html {
   background-color: #f8ece0;
   font-family: tahoma;
-  font-size: 15px;
   text-align: center;
   align-content: center;
 }
