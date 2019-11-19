@@ -42,10 +42,14 @@ header > h1 {
     background-color: maroon;
     max-height: 100px;
 }
+.nav h1 {
+  font-size: 40px; 
+  background-color: maroon; 
+}
 .nav{
     text-align: center;
     color: white;
-
+    font-size: 40pxU
 }
 .nav ul li {
     display:inline;
