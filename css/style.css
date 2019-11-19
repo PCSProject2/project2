@@ -34,8 +34,11 @@ div {
   height: 200px;
   width: 100%;
 }
-
-
+header {
+  text-align: center;
+  color: white;
+  background-color: maroon;
+  max-height: 100px;
 .nav h1 {
   font-size: 40px; 
   background-color: maroon; 
