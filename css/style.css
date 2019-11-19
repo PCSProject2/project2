@@ -59,17 +59,17 @@ html {
   text-align: center;
   align-content: center;
 }
-#NL html{
+.NL html{
     background-color: #f8ece0;
 }
-#NL body{
+.NL body{
     font-size: 10px;
     text-align: center;
     align-content: center;
     width: 90%;
     padding: 10px;
 } 
-#NL input{
+.NL input{
     width: 50%;
     padding: 10px 20px;
     margin: 0px 0;
@@ -78,7 +78,7 @@ html {
     box-sizing: border-box;
     text-align: center;
 }
-#NL .submit-button {
+.NL .submit-button {
     width: 45%;
     padding: 10px 20px;
     border-radius: 10px;
