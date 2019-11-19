@@ -53,10 +53,10 @@ header {
 .nav ul{
     padding: 0;
 }
-a:link, :visited{
+.nav a:link, :visited{
     color: white;
 }
-a:hover{
+.nav a:hover{
     color: lightblue;
 }
 #navTop ul li {
