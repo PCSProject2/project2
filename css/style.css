@@ -218,6 +218,7 @@ a:hover{
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 18px;
+  background-color: black;
 }
 @media screen and (min-width: 300px) {
 #AboutMe {
