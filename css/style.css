@@ -126,12 +126,12 @@ h2{
   float: left;
   padding-left: 10%;
   max-width: 250px;
-  height: 40%;
+  height: auto;
 }
 #right {
   float: right;
   max-width: 250px;
-  height: 20%;
+  height: auto;
   padding-right: 10%;
 }
 header {
