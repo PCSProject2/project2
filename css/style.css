@@ -193,6 +193,18 @@ a:hover{
     text-decoration: none;
     margin: 4px 2px;
 }
+.nl h1{
+    font-size: 50px;
+    color: black;
+}   
+.nl h2{
+    font-size: 25px;
+    color: black;
+}
+.nl label{
+    font-size: 15px;
+    color: black;
+}
 @media screen and (min-width: 300px) {
 #AboutMe {
   text-align: center;
