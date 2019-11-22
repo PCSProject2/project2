@@ -124,7 +124,7 @@ h2{
 }
 .left {
   float: left;
-  padding-left: 20%;
+  padding-left: 10%;
   max-width: 60%;
   height: 40%;
 }
@@ -132,7 +132,7 @@ h2{
   float: right;
   max-width: 50%;
   height: 20%;
-  padding-right: 20%;
+  padding-right: 10%;
 }
 header {
   text-align: center;
