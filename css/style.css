@@ -178,7 +178,7 @@ a:hover{
 .NL input{
     width: 90%;
     padding: 10px 20px;
-    margin: 0px 0;
+    margin: 15px 0;
     display: inline-block;
     border-radius: 10px;
     box-sizing: border-box;
@@ -190,6 +190,8 @@ a:hover{
     border-radius: 10px;
     text-align: center;
     background-color: #8ed2df;
+    text-decoration: none;
+    margin: 4px 2px;
 }
 @media screen and (min-width: 300px) {
 #AboutMe {
