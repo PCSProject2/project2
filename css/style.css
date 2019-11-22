@@ -193,17 +193,18 @@ a:hover{
     text-decoration: none;
     margin: 4px 2px;
 }
-.nl h1{
-    font-size: 50px;
-    color: black;
+.NL h1{
+        font-size: 50px;
+        color: black;
 }   
-.nl h2{
-    font-size: 25px;
-    color: black;
+.NL h2{
+        font-size: 25px;
+        color: black;
+        padding: 10px;
 }
-.nl label{
-    font-size: 15px;
-    color: black;
+.NL label{
+        font-size: 15px;
+        color: black;
 }
 @media screen and (min-width: 300px) {
 #AboutMe {
