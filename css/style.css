@@ -157,6 +157,7 @@ header {
 }
 a:link, :visited{
     color: white;
+    text-decoration: none;
 }
 a:hover{
     color: lightblue;
