@@ -207,7 +207,7 @@ a:hover{
         font-size: 15px;
         color: black;
 }
-#container {
+.container {
   position: relative;
   text-align: center;
   color: white;
