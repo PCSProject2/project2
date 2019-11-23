@@ -208,16 +208,6 @@ a:hover{
   background-color: black;
 }
 @media screen and (min-width: 300px) {
-header {
-  text-align: center;
-  color: white;
-  background-color: #1B5C8C;
-  max-height: 110px;
-}
-.nav h1 {
-  font-size: 40px; 
-  background-color: #1B5C8C; 
-}
 #large {
   font-size: 120px;
 }
