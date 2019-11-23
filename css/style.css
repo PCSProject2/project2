@@ -127,13 +127,13 @@ header {
   background-color: #1B5C8C;
 }
 .nav h1 {
-  font-size: 70px; 
+  font-size: 40px; 
   background-color: #1B5C8C; 
 }
 .nav{
     text-align: center;
     color: white;
-    font-size: 50px;
+    font-size: 30px;
 }
 .nav ul li {
     display:inline;
