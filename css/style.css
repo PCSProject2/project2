@@ -198,7 +198,9 @@ a:hover{
 }
 @media screen and (min-width: 300px) {
 
-  
+.images{
+ max-width: 80% 
+ }
 #large {
   font-size: 120px;
 }
