@@ -188,7 +188,7 @@ a:hover{
   position: relative;
   text-align: center;
   color: white;
-  padding: 10px;
+  padding: 13px;
 }
 .centered {
   position: absolute;
@@ -271,7 +271,6 @@ img {
 @media screen and (min-width: 768px) {
   #left {
   float: left;
-  padding-left: 10%;
   width: auto;
   height: auto;
   }
@@ -279,7 +278,6 @@ img {
     float: right;
     width: auto;
     height: auto;
-    padding-right: 10%;
   }
 h1 {
   font-size: 50px;
