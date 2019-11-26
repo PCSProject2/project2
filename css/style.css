@@ -204,7 +204,7 @@ img {
 }
 #Information {
   position: relative;
-  font-size: 1em /* 20px */;
+  font-size: 15px;
   display: table-cell;
   line-height: 1.618em /* 32.36px */;
   vertical-align: middle;
@@ -212,7 +212,7 @@ img {
   font-family: 'McLaren', "Book Antiqua", "Times New Roman", cursive;
 }
 #Belt {
-  font-size: 1em /* 20px */;
+  font-size: 15px;
   padding-top: 5em;
   line-height: 1.618em /* 32.36px */;
   vertical-align: center;
