@@ -152,7 +152,7 @@ a:hover{
     box-sizing: border-box;
     text-align: center;
 }
-.NL .submit-button {
+.NL .submit_button {
     width: 75%;
     padding: 10px 20px;
     border-radius: 10px;
