@@ -235,6 +235,7 @@ img {
 
 #large {
   font-size: 40px;
+  padding-top: 20px;
   }
 #Information {
   position: absolute;
@@ -260,16 +261,11 @@ img {
 }
 @media screen and (min-width: 768px) {
 .topimages {
-  width: 700px;
-  max-height: 210px;
-  padding-left: 12%;
-  padding-right: 10%;
+  width: 680px;
   margin: auto;
   }
 .bottomimages {
-  width: 700px;
-  padding-left: 10%;
-  padding-right: 10%;
+  width: 680px;
   margin: auto;
   }
 #left {
