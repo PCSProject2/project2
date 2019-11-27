@@ -191,7 +191,7 @@ a:hover{
   opacity: .7;
 }
 @media screen and (min-width: 300px) {
-#large, centered {
+.large, .centered {
   font-size: 25px;
 }
 img {
@@ -234,7 +234,7 @@ img {
 }
 @media screen and (min-width: 500px) {
 
-.large, centered {
+.large, .centered {
   font-size: 40px;
   padding-top: 20px;
   }
