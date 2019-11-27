@@ -191,7 +191,7 @@ a:hover{
   opacity: .7;
 }
 @media screen and (min-width: 300px) {
-#large {
+#large, centered {
   font-size: 25px;
 }
 img {
@@ -234,7 +234,7 @@ img {
 }
 @media screen and (min-width: 500px) {
 
-#large {
+.large, centered {
   font-size: 40px;
   padding-top: 20px;
   }
@@ -269,12 +269,12 @@ img {
   width: 680px;
   margin: auto;
   }
-#left {
+.bottomimages div {
   float: left;
   width: auto;
   height: auto;
   }
-#right {
+.topimages div {
   float: right;
   width: auto;
   height: auto;
